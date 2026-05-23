@@ -12,8 +12,8 @@ I am a Software Engineering graduate with a strong interest in developing practi
 - PHP, MySQL
 - Python
 - WordPress & E-Commerce
-- Windows / Linux basics
-- Basic networking and IT troubleshooting
+- Windows / Linux 
+- Networking and IT troubleshooting
 
 ## Certifications and Training
 - Full Stack Development - Tectigon Academy
